@@ -1,0 +1,9 @@
+contoh soal : http://www.gatewan.com/2017/03/penyelesaian-soal-metode-saw.html
+1.page: index, berisi tentang apa itu saw, dan penjelasan mengenai program yang di buat
+	-berisi input untuk mengupload file dataset.
+#contoh dataset dapat di lihat di dfolder dataset
+2. jika sudah di upload maka berpindah ke halaman u/ memasukan nilai (Max/Min) dan bobot dari tiap-tiap kriteria. 
+	-berisi button submit
+3. jika sudah di klik submit maka akan berpindah ke halaman hasil penghitungan.
+   -terdapat kesimpulan dari penghitungan, alternatif mana yang terbaik dan juga dapat melakukan pencetakan laporan.
+   -jadi terdapat button cetak.
